@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\vs\snake\snake\main.cpp(198): warning C4244: “参数”: 从“float”转换到“DWORD”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  map.cpp
+  food.cpp
+  Snake.cpp
+  SPosition.cpp
+  正在生成代码...
+  Snake.vcxproj -> D:\vs\Snake\Debug\Snake.exe
+  Snake.vcxproj -> D:\vs\Snake\Debug\Snake.pdb (Partial PDB)
